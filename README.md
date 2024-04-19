@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sphyrna15
-- 👀 I’m interested in Machine Learning, Finance, Chess and Mixed Martial Arts
-- 🌱 I’m currently studying Physics at ETH Zürich
+- 👋 Hi, I’m Tim
+- 👀 I’m interested in deep learning, finance, surfing and mixed martial arts
+- 🌱 I’m currently studying Data Science at ETH Zürich
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
